@@ -7,6 +7,7 @@
 
 ## start kafka producer & consumer
 ./bin/kafka-topics.sh -zookeeper localhost:2181 -topic python-file-processing-panda --create --partitions 1 --replication-factor 1
+
 ./bin/kafka-topics.sh -zookeeper localhost:2181 -topic python-file-processing-panda --create --partitions 1 --replication-factor 1
 
 ## kafka console producer

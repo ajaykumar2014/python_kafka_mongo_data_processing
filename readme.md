@@ -1,6 +1,6 @@
 # Architecture Flow :
 
-![alt text]([http://url/to/img.png](https://github.com/ajaykumar2014/python_kafka_mongo_data_processing/blob/main/python_kafka_mongo_data_processing.drawio.png))
+![alt text](https://github.com/ajaykumar2014/python_kafka_mongo_data_processing/blob/main/python_kafka_mongo_data_processing.drawio.png)
 
 
 ## start kafka server

@@ -1,3 +1,7 @@
+# Architecture Flow :
+
+![alt text](http://url/to/img.png)
+
 
 ## start kafka server
 ./bin/kafka-server-start.sh config/server.properties
